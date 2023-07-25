@@ -1,0 +1,436 @@
+{
+  "off_row": "7",
+  "beats_per_second": 16,
+  "max_octave": 8,
+  "max_": 64,
+  "off_col": "4",
+  "grids": {"Piano 0": [
+    {
+      "col": 11,
+      "lighten": false,
+      "amp": 1,
+      "row": 0
+    },
+    {
+      "col": 15,
+      "lighten": true,
+      "amp": 1,
+      "row": 0
+    },
+    {
+      "col": 9,
+      "lighten": false,
+      "amp": 1,
+      "row": 1
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 1
+    },
+    {
+      "col": 8,
+      "lighten": false,
+      "amp": 1,
+      "row": 2
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 2
+    },
+    {
+      "col": 11,
+      "lighten": false,
+      "amp": 1,
+      "row": 3
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 3
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 4
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 5
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 6
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 7
+    },
+    {
+      "col": 15,
+      "lighten": true,
+      "amp": 1,
+      "row": 8
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 9
+    },
+    {
+      "col": 11,
+      "lighten": false,
+      "amp": 1,
+      "row": 10
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 10
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 11
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 12
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 13
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 14
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 15
+    },
+    {
+      "col": 15,
+      "lighten": true,
+      "amp": 1,
+      "row": 16
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 17
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 18
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 19
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 20
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 21
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 22
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 23
+    },
+    {
+      "col": 15,
+      "lighten": true,
+      "amp": 1,
+      "row": 24
+    },
+    {
+      "col": 12,
+      "lighten": false,
+      "amp": 1,
+      "row": 25
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 25
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 26
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 27
+    },
+    {
+      "col": 11,
+      "lighten": false,
+      "amp": 1,
+      "row": 28
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 28
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 29
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 30
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 31
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 32
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 33
+    },
+    {
+      "col": 10,
+      "lighten": true,
+      "amp": 1,
+      "row": 34
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 35
+    },
+    {
+      "col": 10,
+      "lighten": true,
+      "amp": 1,
+      "row": 36
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 37
+    },
+    {
+      "col": 9,
+      "lighten": true,
+      "amp": 1,
+      "row": 38
+    },
+    {
+      "col": 10,
+      "lighten": true,
+      "amp": 1,
+      "row": 39
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 40
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 41
+    },
+    {
+      "col": 10,
+      "lighten": true,
+      "amp": 1,
+      "row": 42
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 43
+    },
+    {
+      "col": 10,
+      "lighten": true,
+      "amp": 1,
+      "row": 44
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 45
+    },
+    {
+      "col": 9,
+      "lighten": true,
+      "amp": 1,
+      "row": 46
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 47
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 48
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 49
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 50
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 51
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 52
+    },
+    {
+      "col": 14,
+      "lighten": true,
+      "amp": 1,
+      "row": 53
+    },
+    {
+      "col": 14,
+      "lighten": true,
+      "amp": 1,
+      "row": 54
+    },
+    {
+      "col": 15,
+      "lighten": true,
+      "amp": 1,
+      "row": 55
+    },
+    {
+      "col": 15,
+      "lighten": true,
+      "amp": 1,
+      "row": 56
+    },
+    {
+      "col": 14,
+      "lighten": true,
+      "amp": 1,
+      "row": 57
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 58
+    },
+    {
+      "col": 14,
+      "lighten": true,
+      "amp": 1,
+      "row": 59
+    },
+    {
+      "col": 13,
+      "lighten": true,
+      "amp": 1,
+      "row": 60
+    },
+    {
+      "col": 12,
+      "lighten": true,
+      "amp": 1,
+      "row": 61
+    },
+    {
+      "col": 11,
+      "lighten": true,
+      "amp": 1,
+      "row": 62
+    },
+    {
+      "col": 10,
+      "lighten": true,
+      "amp": 1,
+      "row": 63
+    }
+  ]},
+  "n": 1
+}

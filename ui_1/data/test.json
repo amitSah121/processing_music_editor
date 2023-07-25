@@ -1,0 +1,50 @@
+{
+  "off_row": "7",
+  "beats_per_second": 20,
+  "max_octave": 8,
+  "max_": 3,
+  "off_col": "4",
+  "grids": {
+    "Piano 0": [
+      {
+        "col": 9,
+        "lighten": true,
+        "amp": 0.40833336114883423,
+        "row": 0
+      },
+      {
+        "col": 10,
+        "lighten": true,
+        "amp": 0.40833336114883423,
+        "row": 1
+      },
+      {
+        "col": 8,
+        "lighten": true,
+        "amp": 0.40833336114883423,
+        "row": 2
+      }
+    ],
+    "Banjo 1": [
+      {
+        "col": 15,
+        "lighten": true,
+        "amp": 1,
+        "row": 0
+      },
+      {
+        "col": 18,
+        "lighten": true,
+        "amp": 1,
+        "row": 1
+      },
+      {
+        "col": 14,
+        "lighten": true,
+        "amp": 1,
+        "row": 2
+      }
+    ]
+  },
+  "n": 2
+}
